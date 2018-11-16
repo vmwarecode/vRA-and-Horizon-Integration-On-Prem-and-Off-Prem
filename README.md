@@ -1,1 +1,0 @@
-# vRA-and-Horizon-Integration-On-Prem-and-Off-Prem
